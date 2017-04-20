@@ -1,0 +1,108 @@
+[
+  {
+    "code": "home",
+    "desc": "myNetwork :: Dashboard",
+    "group": [
+      {
+        "name": "Section A",
+        "interface": [
+          {
+            "desc": "(DC-A) primary",
+            "port": "device_ethernet10_1"
+          },
+          {
+            "desc": "(DC-A) secondary",
+            "port": "device_ethernet10_1"
+          }
+        ]
+      },
+      {
+        "name": "Section B",
+        "interface": [
+          {
+            "desc": "(DC-B) primary",
+            "port": "device_ethernet10_1"
+          },
+          {
+            "desc": "(DC-B) secondary",
+            "port": "device_ethernet10_1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "proj-a",
+    "desc": "Project A :: Dashboard",
+    "group": [
+      {
+        "name": "Zone A",
+        "interface": [
+          {
+            "desc": "(DC-A) primary",
+            "port": "device_ethernet10_1"
+          },
+          {
+            "desc": "(DC-A) secondary",
+            "port": "device_ethernet10_1"
+          }
+        ]
+      },
+      {
+        "name": "Zone B",
+        "interface": [
+          {
+            "desc": "(DC-B) primary",
+            "port": "device_ethernet10_1"
+          },
+          {
+            "desc": "(DC-B) secondary",
+            "port": "device_ethernet10_1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "proj-b",
+    "desc": "Project B :: Dashboard",
+    "group": []
+  },
+  {
+    "code": "proj-c",
+    "desc": "Project C :: Dashboard",
+    "group": [
+      {
+        "name": "Zone A",
+        "interface": [
+          {
+            "desc": "(DC-A) primary",
+            "port": "device_ethernet10_1"
+          },
+          {
+            "desc": "(DC-A) secondary",
+            "port": "device_ethernet10_1"
+          }
+        ]
+      },
+      {
+        "name": "Zone B",
+        "interface": [
+          {
+            "desc": "(DC-B) primary",
+            "port": "device_ethernet10_1"
+          },
+          {
+            "desc": "(DC-B) secondary",
+            "port": "device_ethernet10_1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "proj-d",
+    "desc": "Project D :: Dashboard",
+    "group": []
+  }
+]

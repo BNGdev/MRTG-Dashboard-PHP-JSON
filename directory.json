@@ -1,0 +1,62 @@
+[
+  {
+    "code": "home",
+    "name": "HOME",
+    "button": "button1",
+    "level": 0
+  },
+  {
+    "code": "proj-a",
+    "name": "Project A",
+    "button": "button2",
+    "level": 0
+  },
+  {
+    "code": "proj-b",
+    "name": "Project B",
+    "button": "button3",
+    "level": 1
+  },
+  {
+    "code": "proj-c",
+    "name": "Project C",
+    "button": "button3",
+    "level": 1
+  },
+  {
+    "code": "proj-d",
+    "name": "Project D",
+    "button": "button4",
+    "level": 1
+  },
+  {
+    "code": "proj-e",
+    "name": "Project E",
+    "button": "button5",
+    "level": 2
+  },
+  {
+    "code": "proj-f",
+    "name": "Project F",
+    "button": "button6",
+    "level": 3
+  },
+  {
+    "code": "proj-g",
+    "name": "Project G",
+    "button": "button6",
+    "level": 5
+  },
+  {
+    "code": "proj-h",
+    "name": "Project H",
+    "button": "button6",
+    "level": 6
+  },
+  {
+    "code": "proj-i",
+    "name": "Project I",
+    "button": "button6",
+    "level": 6
+  }
+]
